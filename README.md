@@ -11,8 +11,8 @@ The objective of this report is to:
 - Investigate **seasonality** patterns in customer behavior.
 - Generate **data-driven insights and recommendations** for business strategy.
 
-[https://github.com/Maverick-Stan/Palmpay-Sales-Analysis/blob/a5db9ec12c927d2130ff88148371a5f002bc426c/Visuals/Country.jpg]
-[https://github.com/Maverick-Stan/Palmpay-Sales-Analysis/blob/a5db9ec12c927d2130ff88148371a5f002bc426c/Visuals/Sales.jpg]
+![Country Trends](https://github.com/Maverick-Stan/Palmpay-Sales-Analysis/blob/a5db9ec12c927d2130ff88148371a5f002bc426c/Visuals/Country.jpg)
+![Product Sales](https://github.com/Maverick-Stan/Palmpay-Sales-Analysis/blob/a5db9ec12c927d2130ff88148371a5f002bc426c/Visuals/Sales.jpg)
 
 
 ## 🧠 Key Insights
