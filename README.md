@@ -11,8 +11,7 @@ The objective of this report is to:
 - Investigate **seasonality** patterns in customer behavior.
 - Generate **data-driven insights and recommendations** for business strategy.
 
-![Country Trends](https://github.com/Maverick-Stan/Palmpay-Sales-Analysis/blob/a5db9ec12c927d2130ff88148371a5f002bc426c/Visuals/Country.jpg)
-![Product Sales](https://github.com/Maverick-Stan/Palmpay-Sales-Analysis/blob/a5db9ec12c927d2130ff88148371a5f002bc426c/Visuals/Sales.jpg)
+![Country Trends](https://github.com/Maverick-Stan/Palmpay-Sales-Analysis/blob/bcfed7e66a0315a2a7030076495e1b856fd667f1/Visuals/Revenue%20Analysis.jpg)
 
 
 ## 🧠 Key Insights
@@ -22,8 +21,9 @@ The objective of this report is to:
 | **Country Trends** | U.S. had sharp growth pre-2008, a major dip during the crisis, and gradual recovery after 2010. Germany remained stable throughout. |
 | **Top Seller** | Mountain Bikes consistently generated the highest revenue. |
 | **Flop Product** | Bike racks and low-demand accessories sold the least each year. |
-| **Off-Road Bikes (2011)** | Contributed 15–20% of total sales; top cities: Los Angeles, Seattle, Berlin. |
 | **Seasonality** | Strong seasonality in bikes; accessories like helmets showed steady year-round demand. |
+| **Profit Trends** | Profitability varies by region and season. |
+| **Discount Trends** | Discounts improve sales but reduce profit margins. |
 
 
 ## 💡 Recommendations
@@ -31,7 +31,8 @@ The objective of this report is to:
 2. Promote **non-seasonal accessories** during low-demand months.  
 3. Reduce dependency on large bulk buyers.  
 4. Optimize inventory using **demand forecasting**.  
-5. Develop **all-weather commuter bikes** for year-round sales stability.  
+5. Develop **all-weather commuter bikes** for year-round sales stability.
+6. Adjust discount strategies to protect profit margins.  
 
 
 ## 🧰 Tools & Technologies
