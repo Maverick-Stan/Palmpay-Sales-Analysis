@@ -1,5 +1,8 @@
 # 🚴‍♂️ Palmpay Sales Analysis — Business Intelligence Project
 
+![Report Cover](https://github.com/Maverick-Stan/Palmpay-Sales-Analysis/blob/0b1b7d99fe9347d80cd05b896d643eddbeb89558/Visuals/Palmpay%20Analysis.png)
+
+
 This project analyzes Palmpay’s bicycle sales data (2005–2011) across two major markets, **United States** and **Germany**.  
 It was completed as part of a **Business Intelligence Analyst Assessment** to demonstrate skills in **data analysis, visualization, and insight generation** using **Power BI**.
 
